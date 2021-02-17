@@ -3,7 +3,7 @@
 ### Desarrollo de Sistemas Informáticos
 ### ACOIDAN MESA HERNANDEZ - alu0101206479@ull.edu.es
 
-#### Introducción
+#### Introducció
 
 Esto es un informe para poder llevar a cabo la **práctica 1 de Desarrollo de Sistemas Informáticos**, hemos aprendido a modificar los **hosts** de una maquina para así poder ejecutar `SSH` sin tener que introducir la contraseña e incluso sin tener que introducir el usuario. A parte hemos configurado **git** en la maquina virtual del **IaaS** para vincular el **GitHub** con la máquina y para así poder también configurar el `prompt` de la terminal para que aparezca la rama actual y también se han hecho más cosas que se pueden observar posteriormente.
 
